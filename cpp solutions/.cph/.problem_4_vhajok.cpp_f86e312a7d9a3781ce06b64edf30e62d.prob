@@ -1,0 +1,1 @@
+{"name":"Local: problem_4_vhajok","url":"e:\\52_programming_problems\\problem_4_vhajok.cpp","tests":[{"id":1716813463746,"input":"3\n6\n15\n23","output":"Case 1: 1 2 3 6\nCase 2: 1 3 5 15\nCase 3: 1 23"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\52_programming_problems\\problem_4_vhajok.cpp","group":"local","local":true}
